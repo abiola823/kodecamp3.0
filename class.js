@@ -13,3 +13,4 @@ const dayo = new bankAccount("adedayo", 400, "workingClass");
 
 console.log(abiola.name);
 console.log(dayo.name);
+console.log(dayo.name);
